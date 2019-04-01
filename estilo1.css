@@ -1,0 +1,125 @@
+#titulo1{
+	background-color: #0070FF;
+	color:#ffffff;
+	font-size: 17px;
+}
+
+body{
+	background-color: #5DCBFF;
+	font-family: Arial Narrow,Arial Narrow, Times New Roman;
+}
+
+#barralateral{
+	background-color: #0070FF;
+	height:930px ;
+	width: 170px;
+	float: left;
+}
+
+#barralateral a{
+  text-decoration: none;
+  font-size: 20px;
+  color: #000000;
+}
+
+#barralateral a:hover{
+  text-decoration: none;
+  color: #fff;
+}
+
+#paginaPrincipal{
+	background-color: #47FF07;
+	font-style:normal;
+	font-size: 20px;
+	margin-left: 180px;  
+	padding-top: 10px; 
+	padding-left: 15px;  
+	padding-bottom: 15px;  
+	margin-bottom: 10px; 
+}
+
+#piePagina{
+	background-color: #3498db;  
+	clear: both;  
+	margin-top: 30px;  
+	text-align: left; 
+	padding: 20px;  
+	border-top: 5px solid #001A9C; 
+	font-size: 15px;
+  	font-family: Arial, Arial Narrow, Helvetica;
+}  
+
+#face{
+	width:50px;
+  	height:50px;
+}
+
+#uno{
+	border: none;
+  	text-align: center;
+  	margin-right: 15px;
+}
+
+#dos{
+	border: hidden;
+  	text-align: center;
+  	margin-right: 15px;
+}
+
+#tres{
+	border: dotted;
+  	text-align: center;
+  	margin-right: 15px;
+}
+
+#cuatro{
+	border: dashed;
+  	text-align: center;
+  	margin-right: 15px;
+}
+
+#cinco{
+	border: solid;
+  	text-align: center;
+  	margin-right: 15px;
+}
+
+#seis{
+	border: double;
+  	text-align: center;
+  	margin-right: 15px;
+}
+
+#siete{
+	border: groove;
+  	text-align: center;
+  	margin-right: 15px;
+}
+
+#ocho{
+	border: ridge;
+  	text-align: center;
+  	margin-right: 15px;
+}
+
+#nueve{
+	border: inset;
+  	text-align: center;
+  	margin-right: 15px;
+}
+
+#diez{
+	border: outset;
+  	text-align: center;
+  	margin-right: 15px;
+}
+
+
+#once{
+	text-align: center;
+	margin-right: 15px;
+	border: silver 40px solid;
+  	border-image-source: url("hormigas.png");
+  	border-image-slice: 70;
+  	border-image-repeat: repeat;
+}
